@@ -16,6 +16,16 @@ A machine learning-based fraud detection system that uses Random Forest Classifi
 - Python 3.8 or higher
 - pip (Python package installer)
 
+## Requirement
+
+-flask==2.0.1
+-flask-cors==3.0.10
+-pandas==1.3.3
+-scikit-learn==0.24.2
+-imbalanced-learn==0.8.1
+-joblib==1.0.1
+-numpy==1.21.2 
+
 ## Installation
 
 1. Clone the repository:
